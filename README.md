@@ -1,5 +1,40 @@
 ## Hi, I'm Gavriel 👋
 
+## 👨‍💻 About me
+
+I'm a developer focused on building software, websites, and products.
+
+I enjoy turning ideas into real projects, experimenting with new technologies, and learning by building. I'm especially interested in SaaS, developer tools, web development, and cybersecurity.
+
+## 🚀 What I'm building
+
+I'm currently working on my own products and experimenting with different ideas in SaaS and developer tooling.
+
+I like working on projects from the idea stage all the way to a working product — including development, product design, and infrastructure.
+
+## 📚 Currently learning
+
+- Advanced TypeScript & JavaScript
+- Full-stack web development
+- SaaS architecture
+- Cybersecurity
+- Product development
+- AI-assisted development
+
+## 🛠️ What I like to build
+
+- SaaS products
+- Developer tools
+- Web applications
+- Automation tools
+- Experimental software
+
+
+## 📊 GitHub
+
+Most of my repositories are experiments, products, or tools I'm actively building and learning from.
+
+I'm a big believer in learning by building — so you'll probably find a mix of polished projects, experiments, and things that are still in progress.
 
 
 ## 🌐 Connect with me
@@ -8,6 +43,12 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC0WoAyUz_fOVKUG6kP9Jo_w)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gavrielgoldstein@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=globe&logoColor=white)](https://your-website.com)
+
+## 🤝 Let's connect
+
+I'm always interested in meeting other developers, builders, and people working on interesting products.
+
+If you're building something cool, feel free to reach out.
 
 
 # Technologies
