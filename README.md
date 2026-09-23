@@ -30,11 +30,7 @@ I like working on projects from the idea stage all the way to a working product 
 - Experimental software
 
 
-## 📊 GitHub
 
-Most of my repositories are experiments, products, or tools I'm actively building and learning from.
-
-I'm a big believer in learning by building — so you'll probably find a mix of polished projects, experiments, and things that are still in progress.
 
 
 ## 🌐 Connect with me
